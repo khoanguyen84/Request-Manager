@@ -6,6 +6,8 @@
 - Array
 - Object
 
+## Template
+- Pinterest: https://www.pinterest.com/pin/943293084426086287/
 
 ## Sản phẩm
 - Link sản phẩm:
