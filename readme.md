@@ -5,6 +5,7 @@
 - Loops statements, Condition Statements, Function
 - Array
 - Object
+- Local Storage
 
 ## Template
 - Pinterest: https://www.pinterest.com/pin/943293084426086287/
