@@ -26,6 +26,11 @@
     width: 130px;
 }
 
+.form-group>label::after{
+    content: " (*)";
+    color: red;
+}
+
 .form-control{
     border: none;
     outline: none;
@@ -41,6 +46,7 @@
     border: 1px solid gray;
     border-radius: 2px;
     cursor: pointer;
+    margin-right: 2px;
 } 
 .btn-warning{
     background-color: orange;
